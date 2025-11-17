@@ -43,8 +43,8 @@ checkpoints/
 logs/
 runs/
 
-# Data
-data/
+# Data files (but not src/data module)
+/data/
 *.h5
 *.hdf5
 
